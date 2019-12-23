@@ -1,17 +1,17 @@
 # Site settings
 title: Sunny Blog
-SEOTitle: sunny的博客 | Sunny Blog
+SEOTitle: 向阳少年的博客 | Sunny Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: 480445898@qq.com
+description: "人生的道理很简单，你想要什么，就付出足够的努力."
+keyword: "Java, Node, Spring,SpringBoot,Sunny Blog, 向阳少年的博客, 项目管理, 项目经理, 产品经理, 架构师, 软件开发, 技术总监"
+url: "https://sunnyblog.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/sunnyblog/sunnyblog.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "人生的道理很简单，你想要什么，就付出足够的努力"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
